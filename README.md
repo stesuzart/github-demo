@@ -9,6 +9,7 @@ Nome: Stephannie Suzart
 Linkedin: https://www.linkedin.com/in/stesuzart/
 
 --
-Nome: 
-Linkedin:
+
+Nome: Yuri Capella
+Linkedin: https://www.linkedin.com/in/yuricapella/
 
