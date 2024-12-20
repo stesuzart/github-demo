@@ -9,6 +9,6 @@ Nome: Stephannie Suzart
 Linkedin: https://www.linkedin.com/in/stesuzart/
 
 --
-Nome: 
-Linkedin:
+Nome: Bruno Ferreira
+Linkedin:https://www.linkedin.com/in/bruno-de-souza-ferreira-55b61b243/
 
