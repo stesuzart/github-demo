@@ -9,6 +9,6 @@ Nome: Stephannie Suzart
 Linkedin: https://www.linkedin.com/in/stesuzart/
 
 --
-Nome: 
-Linkedin:
+Nome: Carlos Angelo
+Linkedin: https://www.linkedin.com/in/carlos-angelo/
 
