@@ -9,6 +9,7 @@ Nome: Stephannie Suzart
 Linkedin: https://www.linkedin.com/in/stesuzart/
 
 --
-Nome: 
-Linkedin:
+Nome: Wander Leandro de Carvalho
+Linkedin: https://www.linkedin.com/in/wanderlc/
 
+--
