@@ -9,6 +9,6 @@ Nome: Stephannie Suzart
 Linkedin: https://www.linkedin.com/in/stesuzart/
 
 --
-Nome: 
-Linkedin:
+Nome: Ezequias
+Linkedin:https://www.linkedin.com/in/ezequias-lima-da-silva/
 
