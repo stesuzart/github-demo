@@ -9,6 +9,6 @@ Nome: Stephannie Suzart
 Linkedin: https://www.linkedin.com/in/stesuzart/
 
 --
-Nome: 
-Linkedin:
+Nome: Gabriel 
+Linkedin: https://www.linkedin.com/in/gabriel-de-oliveira-silva-39086b18b/
 
