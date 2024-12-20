@@ -9,6 +9,5 @@ Nome: Stephannie Suzart
 Linkedin: https://www.linkedin.com/in/stesuzart/
 
 --
-Nome: 
-Linkedin:
-
+Nome: André Knapik
+Linkedin: https://www.linkedin.com/in/andreknapik/
