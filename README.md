@@ -10,5 +10,5 @@ Linkedin: https://www.linkedin.com/in/stesuzart/
 
 --
 Nome: Anderson Alves Santos
-Linkedin:https://www.linkedin.com/in/anderssantos/
+Linkedin:https://www.linkedin.com/in/anderssantos
 
