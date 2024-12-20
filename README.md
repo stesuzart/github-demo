@@ -9,6 +9,6 @@ Nome: Stephannie Suzart
 Linkedin: https://www.linkedin.com/in/stesuzart/
 
 --
-Nome: 
-Linkedin:
+Nome: Anderson Freitas
+Linkedin: https://linkedin.com/in/anderson-freitas-30277527/overlay/contact-info/
 
