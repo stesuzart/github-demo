@@ -9,6 +9,6 @@ Nome: Stephannie Suzart
 Linkedin: https://www.linkedin.com/in/stesuzart/
 
 --
-Nome: 
-Linkedin:
+Nome: Gabriela da Silva
+Linkedin: https://www.linkedin.com/in/gabrielajuniordeveloper/
 
