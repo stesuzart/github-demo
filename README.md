@@ -9,6 +9,7 @@ Nome: Stephannie Suzart
 Linkedin: https://www.linkedin.com/in/stesuzart/
 
 --
-Nome: 
-Linkedin:
+Nome: Raquel Correa De Souza --
+Linkedin: https://www.linkedin.com/in/raquelcorreasouza/git
+
 
