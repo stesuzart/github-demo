@@ -9,6 +9,6 @@ Nome: Stephannie Suzart
 Linkedin: https://www.linkedin.com/in/stesuzart/
 
 --
-Nome: 
-Linkedin:
+Nome: Aline
+Linkedin:https://www.linkedin.com/in/aline-cristina-wornath/
 
