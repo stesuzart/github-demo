@@ -9,6 +9,6 @@ Nome: Stephannie Suzart
 Linkedin: https://www.linkedin.com/in/stesuzart/
 
 --
-Nome: 
-Linkedin:
+Nome: Luiz Carlos 
+Linkedin: linkedin.com/in/luiz-carlos-soares-do-rosário/
 
