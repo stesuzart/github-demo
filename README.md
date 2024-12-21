@@ -10,5 +10,5 @@ Linkedin: https://www.linkedin.com/in/stesuzart/
 
 --
 Nome: Igor Eloi Dias Branco
-Linkedin:https://www.linkedin.com/in/igor-eloi-829812135/
+Linkedin: https://www.linkedin.com/in/igor-eloi-829812135/
 
