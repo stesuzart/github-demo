@@ -9,6 +9,11 @@ Nome: Stephannie Suzart
 Linkedin: https://www.linkedin.com/in/stesuzart/
 
 --
+
+Nome: Raquel Correa De Souza --
+Linkedin: https://www.linkedin.com/in/raquelcorreasouza/git
+
+=======
 Nome: Yuri Capella
 Linkedin: https://www.linkedin.com/in/yuricapella/
 
