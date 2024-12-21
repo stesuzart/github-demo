@@ -9,6 +9,8 @@ Nome: Stephannie Suzart
 Linkedin: https://www.linkedin.com/in/stesuzart/
 
 --
-Nome: 
-Linkedin:
+Nome: Ronaldo
+Linkedin: !https://www.linkedin.com/in/ronaldo-di-george-339570237/
+
+
 
