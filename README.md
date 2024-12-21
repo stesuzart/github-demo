@@ -9,6 +9,6 @@ Nome: Stephannie Suzart
 Linkedin: https://www.linkedin.com/in/stesuzart/
 
 --
-Nome: 
-Linkedin:
+Nome: Igor Eloi Dias Branco
+Linkedin:https://www.linkedin.com/in/igor-eloi-829812135/
 
