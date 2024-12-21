@@ -9,6 +9,10 @@ Nome: Stephannie Suzart
 Linkedin: https://www.linkedin.com/in/stesuzart/
 
 --
+Nome: Alan Cleber
+Linkedin: https://www.linkedin.com/in/alancleber/
+
+--
 Nome: Marcos Shirafuchi
 Linkedin: https://www.linkedin.com/in/marcosshirafuchi/
 
@@ -27,6 +31,7 @@ Linkedin: https://www.linkedin.com/in/aline-cristina-wornath/
 --
 Nome: Stefanie Castro
 Linkedin: https://www.linkedin.com/in/stefanie-castro/
+
 
 
 
