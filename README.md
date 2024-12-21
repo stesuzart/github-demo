@@ -10,5 +10,10 @@ Linkedin: https://www.linkedin.com/in/stesuzart/
 
 --
 Nome: Alan Cleber
-Linkedin:https://www.linkedin.com/in/alancleber/
+Linkedin: https://www.linkedin.com/in/alancleber/
+
+--
+Nome: Stefanie Castro
+Linkedin: https://www.linkedin.com/in/stefanie-castro/
+
 
