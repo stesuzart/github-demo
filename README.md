@@ -8,6 +8,11 @@ Por gentileza, acrescente seu nome e endereço do linkedin.
 Nome: Stephannie Suzart
 Linkedin: https://www.linkedin.com/in/stesuzart/
 
+
+Nome: Anderson Alves Santos
+Linkedin:https://www.linkedin.com/in/anderssantos
+
+
 --
 
 
@@ -36,6 +41,7 @@ Linkedin: https://www.linkedin.com/in/bruno-de-souza-ferreira-55b61b243/
 --
 Nome: Yuri Capella
 Linkedin: https://www.linkedin.com/in/yuricapella/
+
 
 --
 Nome: Aline
