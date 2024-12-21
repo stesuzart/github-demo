@@ -9,6 +9,6 @@ Nome: Stephannie Suzart
 Linkedin: https://www.linkedin.com/in/stesuzart/
 
 --
-Nome: 
-Linkedin:
+Nome: Daniela Marcilio
+Linkedin: https://www.linkedin.com/in/daniela-marcilio-cybersec/
 
