@@ -32,3 +32,11 @@ Linkedin: https://www.linkedin.com/in/aline-cristina-wornath/
 Nome: Stefanie Castro
 Linkedin: https://www.linkedin.com/in/stefanie-castro/
 
+
+
+
+
+
+--
+Nome: Leandro Chagas da Silva
+Linkedin: https://www.linkedin.com/in/leandrosi/
