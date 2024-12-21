@@ -13,6 +13,10 @@ Nome: Ezequias
 Linkedin:https://www.linkedin.com/in/ezequias-lima-da-silva/
 
 --
+Nome: Alan Cleber
+Linkedin: https://www.linkedin.com/in/alancleber/
+
+--
 Nome: Marcos Shirafuchi
 Linkedin: https://www.linkedin.com/in/marcosshirafuchi/
 
@@ -31,3 +35,4 @@ Linkedin: https://www.linkedin.com/in/aline-cristina-wornath/
 --
 Nome: Stefanie Castro
 Linkedin: https://www.linkedin.com/in/stefanie-castro/
+
