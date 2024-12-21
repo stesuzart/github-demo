@@ -10,5 +10,10 @@ Linkedin: https://www.linkedin.com/in/stesuzart/
 
 --
 Nome: Aline
-Linkedin:https://www.linkedin.com/in/aline-cristina-wornath/
+Linkedin: https://www.linkedin.com/in/aline-cristina-wornath/
+
+--
+Nome: Stefanie Castro
+Linkedin: https://www.linkedin.com/in/stefanie-castro/
+
 
