@@ -9,6 +9,16 @@ Nome: Stephannie Suzart
 Linkedin: https://www.linkedin.com/in/stesuzart/
 
 --
+
 Nome: Jeverson Santos
 Linkedin: https://github.com/JevSantos
+--
+Nome: Aline
+Linkedin: https://www.linkedin.com/in/aline-cristina-wornath/
+
+--
+Nome: Stefanie Castro
+Linkedin: https://www.linkedin.com/in/stefanie-castro/
+
+
 
