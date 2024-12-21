@@ -9,19 +9,22 @@ Nome: Stephannie Suzart
 Linkedin: https://www.linkedin.com/in/stesuzart/
 
 --
+Nome: Jeverson Santos
+Linkedin: https://github.com/JevSantos
 
+---
+Nome: Bruno Ferreira
+Linkedin:https://www.linkedin.com/in/bruno-de-souza-ferreira-55b61b243/
 
-
-
+--
 Nome: Gabriel 
 Linkedin: https://www.linkedin.com/in/gabriel-de-oliveira-silva-39086b18b/
+
 --
-
-
 Nome: Carlos Angelo
 Linkedin: https://www.linkedin.com/in/carlos-angelo/
 
-
+--
 Nome: Alan Cleber
 Linkedin: https://www.linkedin.com/in/alancleber/
 
