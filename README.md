@@ -11,3 +11,11 @@ Linkedin: https://www.linkedin.com/in/stesuzart/
 --
 Nome: André Knapik
 Linkedin: https://www.linkedin.com/in/andreknapik/
+
+--
+Nome: Aline
+Linkedin: https://www.linkedin.com/in/aline-cristina-wornath/
+
+--
+Nome: Stefanie Castro
+Linkedin: https://www.linkedin.com/in/stefanie-castro/
