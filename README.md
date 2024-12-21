@@ -8,7 +8,14 @@ Por gentileza, acrescente seu nome e endereço do linkedin.
 Nome: Stephannie Suzart
 Linkedin: https://www.linkedin.com/in/stesuzart/
 
---
 Nome: Anderson Alves Santos
 Linkedin:https://www.linkedin.com/in/anderssantos
 
+
+--
+Nome: Aline
+Linkedin: https://www.linkedin.com/in/aline-cristina-wornath/
+
+--
+Nome: Stefanie Castro
+Linkedin: https://www.linkedin.com/in/stefanie-castro/
