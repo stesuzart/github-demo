@@ -9,10 +9,16 @@ Nome: Stephannie Suzart
 Linkedin: https://www.linkedin.com/in/stesuzart/
 
 --
+
+Nome: Igor Eloi Dias Branco
+Linkedin: https://www.linkedin.com/in/igor-eloi-829812135/
+
+--
 Nome: Alan Cleber
 Linkedin: https://www.linkedin.com/in/alancleber/
 
 --
+
 Nome: Marcos Shirafuchi
 Linkedin: https://www.linkedin.com/in/marcosshirafuchi/
 
