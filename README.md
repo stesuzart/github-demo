@@ -9,10 +9,19 @@ Nome: Stephannie Suzart
 Linkedin: https://www.linkedin.com/in/stesuzart/
 
 --
+
+
+
+
+Nome: Gabriel 
+Linkedin: https://www.linkedin.com/in/gabriel-de-oliveira-silva-39086b18b/
+--
+
+
 Nome: Carlos Angelo
 Linkedin: https://www.linkedin.com/in/carlos-angelo/
 
---
+
 Nome: Alan Cleber
 Linkedin: https://www.linkedin.com/in/alancleber/
 
