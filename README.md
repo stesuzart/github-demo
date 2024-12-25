@@ -9,15 +9,18 @@ Nome: Stephannie Suzart
 Linkedin: https://www.linkedin.com/in/stesuzart/
 
 --
+Nome: Luiz Carlos S R
+Linkedin: linkedin.com/in/luiz-carlos-soares-do-rosário/
 
+--
+Nome: Bruno Ferreira
+Linkedin:https://www.linkedin.com/in/bruno-de-souza-ferreira-55b61b243/
 
-
-
+--
 Nome: Gabriel 
 Linkedin: https://www.linkedin.com/in/gabriel-de-oliveira-silva-39086b18b/
+
 --
-
-
 Nome: Carlos Angelo
 Linkedin: https://www.linkedin.com/in/carlos-angelo/
 
@@ -36,11 +39,9 @@ Linkedin: https://www.linkedin.com/in/bruno-de-souza-ferreira-55b61b243/
 --
 Nome: Yuri Capella
 Linkedin: https://www.linkedin.com/in/yuricapella/
-
 --
 Nome: Aline
 Linkedin: https://www.linkedin.com/in/aline-cristina-wornath/
-
 --
 Nome: Stefanie Castro
 Linkedin: https://www.linkedin.com/in/stefanie-castro/
